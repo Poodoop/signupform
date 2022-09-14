@@ -1,0 +1,11 @@
+body{
+    background-color: #a0e4ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(0, 32, 211, 0.667);
+}
+
+input{
+    color: rgba(0, 32, 211, 0.667);
+    font-size: large;
+    font-weight: bold;
+}
